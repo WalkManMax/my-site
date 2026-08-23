@@ -1,0 +1,9 @@
+{
+  // Worker 名称：决定线上地址 my-site.<你的子域>.workers.dev
+  "name": "my-site",
+  "compatibility_date": "2026-08-01",
+  // 静态资源目录：整个网站就是一个纯静态 Worker
+  "assets": {
+    "directory": "./public"
+  }
+}
